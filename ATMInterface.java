@@ -67,7 +67,7 @@ class ATM {
                     System.out.println("Current Balance " + account.balance());
                     break;
                 case 4:
-                    System.out.println("Thanks for working with Union Bank");
+                    System.out.println("Thanks for working with Paul Bank. Visit again.");
                     break;
                 default:
                     System.out.println("Invalid Entry! Please enter only the given option.");
